@@ -1,4 +1,3 @@
 numpy
 matplotlib
-tensorflow  # só para carregar o MNIST via keras.datasets.mnist
-scikit-learn  # opcional, para matriz de confusão
+scikit-learn
